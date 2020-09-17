@@ -7,6 +7,8 @@
 
 
  API used: https://covid19.mathdro.id/api
+ 
+# Made With React JS
 
 Setup:
 - run ```npm i && npm start```
